@@ -1,0 +1,26 @@
+# MANIFEST.txt
+Special Topics in Analytics — Assignment 01 (PySpark)
+Student: Harshal Prashant Kamble • Section 006 (Fall 2025)
+
+This manifest lists all submitted files and their purpose.
+
+1. Assignment01.ipynb  
+   - Main PySpark notebook with data ingestion, preprocessing, analysis, and visualization.
+   - Contains Spark code, explanations, and inline display of plots.
+
+2. README.md  
+   - Provides dataset source and description, environment setup, run instructions, and summary of insights.
+
+3. MANIFEST.txt  
+   - Current file. Lists all submitted artifacts and their descriptions.
+
+4. Outputs/Plots/Fair_vs_trip_dist.png  
+   - Static plot for Insight 1: Relationship between fare and trip distance.
+
+5. Outputs/Plots/Heat_map.png  
+   - Static plot for Insight 2: Heatmap of trip counts by hour × weekday.
+
+6. Outputs/Plots/Scatter_plot.png  
+   - Static plot for Insight 3: Average trip duration by hour.
+
+Note: Original raw dataset files are excluded, as per assignment instructions.
